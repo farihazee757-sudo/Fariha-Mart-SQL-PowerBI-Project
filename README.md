@@ -18,6 +18,8 @@ The Power BI dashboard includes the following key performance indicators (KPIs) 
 *   **Product Performance:** Identification of Top 5 best-selling products and low-performing inventory.
 *   **Customer Demographics:** Analysis of sales based on customer location, age group, and purchasing behavior.
 *   **Interactive Filters:** Slicers for Date, Region, and Product Category to allow dynamic data exploration.
+## 📸 Dashboard Screenshots
+<img width="526" height="347" alt="image" src="https://github.com/user-attachments/assets/31838fe6-78ee-4e60-9dae-97b9bd227f54" />
 
 ## 📂 Repository Structure
 *   `FarihaMart.pbix` - The main Power BI Desktop file containing the data model, DAX measures, and visual dashboards.
